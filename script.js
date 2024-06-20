@@ -21,7 +21,7 @@ function reveal() {
 
 
 const body = document.querySelector("body");
-const galleryWrapper = document.querySelectorAll(".gallery-wrapper");
+const galleryWrapper = document.querySelector(".gallery-wrapper");
 
 // const styeElement = document.createElement("style");
 // styeElement.innerHTML = galleryStyleSheet;
